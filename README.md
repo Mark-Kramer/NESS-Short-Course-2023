@@ -6,4 +6,6 @@ This repository contains code discussed in the short course *Introduction to the
 
 | Notebook |  Run It |
 | --- | --- |
-| [Power Spectrum](./Power-spectrum-for-NESS.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mark-Kramer/NESS-Short-Course-2023/blob/main/Power-spectrum-for-NESS.ipynb)|
+| [Spectrum](./Power-spectrum-for-NESS.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mark-Kramer/NESS-Short-Course-2023/blob/main/Power-spectrum-for-NESS.ipynb)|
+| [Coherence](./Coherence-for-NESS.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mark-Kramer/NESS-Short-Course-2023/blob/main/Coherence-for-NESS.ipynb)|
+| [Spike-field coherence](./Spike-field-coherence-for-NESS.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mark-Kramer/NESS-Short-Course-2023/blob/main/Spike-field-coherence-for-NESS.ipynb)|
