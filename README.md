@@ -3,6 +3,9 @@
 This repository contains code discussed in the short course *Introduction to the analysis of neural electrophysiology data* at [NESS 2023](https://symposium.nestat.org/short-courses.html).
 
 ---
+[Lecture slides (Part 1)](NESS_Kramer_2023.pdf)
+
+---
 
 | Notebook |  Run It |
 | --- | --- |
