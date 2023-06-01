@@ -3,8 +3,8 @@
 This repository contains code discussed in the short course *Introduction to the analysis of neural electrophysiology data* at [NESS 2023](https://symposium.nestat.org/short-courses.html).
 
 ---
-### Part 1
-- [Lecture slides](NESS_Kramer_2023.pdf)
+### Part 1 (Kramer)
+- [Lecture slides](NESS_Short_Course_Part1.pdf)
 
 | Notebook |  Run It |
 | --- | --- |
@@ -13,7 +13,7 @@ This repository contains code discussed in the short course *Introduction to the
 | [Spike-field coherence](./Spike-field-coherence-for-NESS.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mark-Kramer/NESS-Short-Course-2023/blob/main/Spike-field-coherence-for-NESS.ipynb)|
 
 ---
-### Part 2
+### Part 2 (Eden)
 
 - [Example code](./NESSDecodeExample.m)
 
