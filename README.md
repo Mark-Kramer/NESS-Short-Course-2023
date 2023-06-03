@@ -14,6 +14,7 @@ This repository contains code discussed in the short course *Introduction to the
 
 ---
 ### Part 2 (Eden)
+- [Lecture slides](NESS_Short_Course_Part2.pdf)
 
 - [Example code](./NESSDecodeExample.m)
 
