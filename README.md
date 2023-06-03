@@ -20,3 +20,7 @@ This repository contains code discussed in the short course *Introduction to the
 - [Example code](./NESSDecodeExample.m)
 
 - [Example data](./MarkedDecodeExample.mat)
+
+---
+### Further reading
+[More details and examples of spectral analysis](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
